@@ -6,7 +6,7 @@ Repo containing pdf of slides and materials for Rstudio conf 2022 talk on "From 
 
 External links:
 
-* Talk recording: TBD
+* Talk recording: https://www.rstudio.com/conference/2022/talks/summarizing-projects-to-setting-tags/
 * Package website: https://brshallo.github.io/funspotr/
 * Package repo: https://github.com/brshallo/funspotr/
 
